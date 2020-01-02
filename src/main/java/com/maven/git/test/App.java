@@ -1,6 +1,11 @@
 package com.maven.git.test;
 
-//²âÊÔÀà
+/**
+ * 
+ * ×¢ÊÍ
+ * @author ·½Ô²µçÄÔ3
+ *
+ */
 public class App {
 
 	public static void main(String[] args) {
